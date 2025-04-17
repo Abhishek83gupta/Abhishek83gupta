@@ -10,10 +10,10 @@
   
 
 - 📄 My Resume 
-https://drive.google.com/file/d/1mJRrtgC9KcQRaXkPDmhbSQvca9pNxe5W/view?usp=sharing  
+https://drive.google.com/file/d/18i9IgJAyQCHAeT5o_csckNeuc6fKMlzP/view?usp=sharing 
   
 
-- Portfolio https://abhishekgupta-zeta.vercel.app  
+- 🌐 Portfolio https://abhishekgupta-zeta.vercel.app  
   
 
 - 🎲 Fun fact: Ants take rest for around 8 Minutes in 12-hour period.  
