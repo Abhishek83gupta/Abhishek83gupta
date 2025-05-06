@@ -10,7 +10,7 @@
   
 
 - 📄 My Resume 
-https://drive.google.com/file/d/18i9IgJAyQCHAeT5o_csckNeuc6fKMlzP/view?usp=sharing 
+https://drive.google.com/file/d/18i9IgJAyQCHAeT5o_csckNeuc6fKMlzP/view?usp=sharing
   
 
 - 🌐 Portfolio https://abhishekgupta-zeta.vercel.app  
@@ -109,6 +109,3 @@ https://drive.google.com/file/d/18i9IgJAyQCHAeT5o_csckNeuc6fKMlzP/view?usp=shari
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
