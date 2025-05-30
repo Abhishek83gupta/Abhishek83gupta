@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek;Full+Stack+Developer;DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0099ff&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek;Full+Stack+Developer;DevOps+Engineer" alt="Typing SVG" />
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=600&lines=Building+robust+web+applications+and+exploring+the+DevOps+universe;Turning+complex+problems+into+elegant+solutions;Crafting+code+that+makes+a+difference" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0099ff&center=true&vCenter=true&random=false&width=600&lines=Building+robust+web+applications+and+exploring+the+DevOps+universe;Turning+complex+problems+into+elegant+solutions;Crafting+code+that+makes+a+difference" alt="Typing SVG" />
   </p>
   
   <a href="https://abhishekgupta-zeta.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0099ff?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:abhishekgupta3104@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -90,9 +90,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhishek83gupta&style=for-the-badge&color=6E56CF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhishek83gupta&style=for-the-badge&color=0099ff" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=100&section=footer" />
 </div>
