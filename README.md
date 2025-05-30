@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek;Full+Stack+Developer;DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek;Full+Stack+Developer;DevOps+Engineer" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=600&lines=Building+robust+web+applications+and+exploring+the+DevOps+universe;Turning+complex+problems+into+elegant+solutions;Crafting+code+that+makes+a+difference" alt="Typing SVG" />
@@ -19,7 +19,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🌱 Currently mastering **DevOps practices** and **Data Structures & Algorithms**
 - 💻 Full Stack Developer with expertise in React, Node.js, and modern web technologies
@@ -42,7 +41,6 @@
     <a href="#"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="50" height="50" /></a>&nbsp;
     <a href="#"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="50" height="50" /></a>&nbsp;
     <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="50" height="50" /></a>&nbsp;
-    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" alt="Chart.js" title="Chart.js" width="50" height="50" /></a>
   </p>
 
   ### Backend
