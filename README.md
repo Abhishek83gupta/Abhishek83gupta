@@ -1,111 +1,100 @@
-### **<div align="center">Hi 👋, I'm Abhishek Gupta</div>**  
-  
-
-- 🌱 I’m currently Learning DevOps & DSA   
-  
-
-- 📫 How to reach me abhishekgupta3104@gmail.com
-
-  
-  
-
-- 📄 My Resume 
-https://drive.google.com/file/d/18i9IgJAyQCHAeT5o_csckNeuc6fKMlzP/view?usp=sharing
-  
-
-- 🌐 Portfolio https://abhishekgupta-zeta.vercel.app  
-  
-
-- 🎲 Fun fact: Ants take rest for around 8 Minutes in 12-hour period.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-gupta-83a410295/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/https://x.com/unkown_abhi_31?t=zXu_hYesRzsSuQGcNmHmWw&s=08" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/Abhishek83gupta" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek;Full+Stack+Developer;DevOps+Engineer" alt="Typing SVG" />
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abhishek83gupta&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=600&lines=Building+robust+web+applications+and+exploring+the+DevOps+universe;Turning+complex+problems+into+elegant+solutions;Crafting+code+that+makes+a+difference" alt="Typing SVG" />
+  </p>
   
+  <a href="https://abhishekgupta-zeta.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:abhishekgupta3104@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://drive.google.com/file/d/18i9IgJAyQCHAeT5o_csckNeuc6fKMlzP/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+</div>
 
-<br/>  
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+- 🌱 Currently mastering **DevOps practices** and **Data Structures & Algorithms**
+- 💻 Full Stack Developer with expertise in React, Node.js, and modern web technologies
+- 🔍 Passionate about creating efficient, scalable, and user-friendly applications
+- 🎯 Goal: Building systems that make a positive impact on people's lives
+- 🎲 Fun fact: Ants take rest for around 8 Minutes in 12-hour period
+
+## 💻 Tech Stack
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Abhishek83gupta&&style=flat-square" align="center" />
-</div>  
+  
+  ### Frontend
+  <p>
+    <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" alt="Chart.js" title="Chart.js" width="50" height="50" /></a>
+  </p>
 
-<br />
+  ### Backend
+  <p>
+    <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma" width="50" height="50" /></a>
+  </p>
+
+  ### DevOps
+  <p>
+    <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" title="Ansible" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="50" height="50" /></a>&nbsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana" width="50" height="50" /></a>
+  </p>
+</div>
+
+#
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek83gupta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhishek-gupta-83a410295/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/unkown_abhi_31?t=zXu_hYesRzsSuQGcNmHmWw&s=08">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/Abhishek83gupta">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek83gupta&style=for-the-badge&color=6E56CF" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
