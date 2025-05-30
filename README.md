@@ -1,7 +1,9 @@
+
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0099ff&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Gupta;Full+Stack+Developer;DevOps+Engineer" alt="Typing SVG" />
   
   <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0099ff&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Gupta;Full+Stack+Developer;DevOps+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0099ff&center=true&vCenter=true&random=false&width=600&lines=Building+robust+web+applications+and+exploring+the+DevOps+universe;Turning+complex+problems+into+elegant+solutions;Crafting+code+that+makes+a+difference" alt="Typing SVG" />
   </p>
   
   <a href="https://abhishekgupta-zeta.vercel.app">
